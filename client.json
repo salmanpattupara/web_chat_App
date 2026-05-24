@@ -1,0 +1,37 @@
+[
+    {
+        "username": "nafih",
+        "userdata": {
+            "status": "offline",
+            "last_seen": "2026-05-24 17:36:55"
+        }
+    },
+    {
+        "username": "fahad",
+        "userdata": {
+            "status": "offline",
+            "last_seen": "2026-05-24 17:34:38"
+        }
+    },
+    {
+        "username": "nafi",
+        "userdata": {
+            "status": "offline",
+            "last_seen": "2026-05-24 17:34:55"
+        }
+    },
+    {
+        "username": "asas",
+        "userdata": {
+            "status": "offline",
+            "last_seen": "2026-05-24 19:13:12"
+        }
+    },
+    {
+        "username": "salman",
+        "userdata": {
+            "status": "offline",
+            "last_seen": "2026-05-24 19:50:46"
+        }
+    }
+]

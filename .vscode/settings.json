@@ -1,0 +1,4 @@
+{
+    "editor.inlineSuggest.edits.allowCodeShifting": "never",
+    "python.defaultInterpreterPath": "${workspaceFolder}/venv/Scripts/python.exe"
+}
