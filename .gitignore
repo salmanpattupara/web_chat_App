@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local environment & IDE files
+.vscode/
+.idea/
+
+# Local logs
+app.log
+*.log
